@@ -1,6 +1,6 @@
 # Kilchattan
 
-<img src="https://github.com/lewismc/kilchattan/docs/a-sunny-day-in-kilchattan-bay.jpg" align="right" width="300" />
+<img src="https://github.com/lewismc/kilchattan/blob/master/docs/a-sunny-day-in-kilchattan-bay.jpg" align="right" width="300" />
 
 Kilchattan is a [Scientific Data Formats](http://fileformats.archiveteam.org/wiki/Scientific_Data_formats)
 (SDF)-to-[CoverageJSON](https://github.com/Reading-eScience-Centre/coveragejson/) generation framework.
