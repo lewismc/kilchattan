@@ -54,10 +54,10 @@ Lets feed in the data product as a parameter to the kilchattan script
 	$ wget "http://podaac-opendap.jpl.nasa.gov:80/opendap/allData/jason1/L2/sgdr_netcdf_c/c002/JA1_GPS_2PcP002_014_20020125_152010_20020125_155958.nc"
 	$ python kilchattan.py JA1_GPS_2PcP002_014_20020125_152010_20020125_155958.nc
 ```
-The output CoverageJSON will be written to the current working directory and when
-rendered within a browser looks like the following
+The output CoverageJSON will be written to the current working directory. Examples of
+what this _may_ look like (and other CoverageJSON examples) can be found at the
+[CoverageJSON Playground](https://covjson.org/playground/).
 
-XXX
 
 ##What does the word Kilchattan mean?
 **[Kilchattan Bay](https://en.wikipedia.org/wiki/Kilchattan_Bay)** is a village on 
